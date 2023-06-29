@@ -1,0 +1,8 @@
+APP_NAME= "lfc_sanic_demo1"
+temp = ""
+VERSION = 1
+
+[db_settings]
+  DB_HOST = "localhost"
+  DB_NAME = "appdb"
+  DB_USER = "appuser"
